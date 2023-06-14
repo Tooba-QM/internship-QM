@@ -4,5 +4,5 @@ modal-id: 1
 date: 2023-06-14
 img: 1.jpg
 alt: image-alt
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: This report is about the experience and the results of the observations and surveys taken on how people interact with multimedia in National Museum of Qatar (NMOQ). The observations were recorded in a structured manner, noting down specific actions, reactions, and notable behaviors of the visitors. While the surveys were conducted at the end of visitors' museum tour in G12.
 ---
