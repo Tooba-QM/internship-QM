@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: "Tooba"
-  location: "Location"
+  location: "Contact"
   social: Around the Web
   credits: Credits
 
@@ -44,7 +44,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Doha,Qatar
+  - line: taziz@qm.org.qa
   - line: 
 
 # Credits content
