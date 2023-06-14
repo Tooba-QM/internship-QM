@@ -1,10 +1,10 @@
 # Site settings
 title: "Tooba@QM"
 email: "taziz@qm.org.qa"
-url: https://github.com/jeromelachaud/freelancer-theme
+url: "https://github.com/Tooba-QM/internship-QM"
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+skills: "Weekly intership reports"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -32,31 +32,31 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: "Tooba 2023"
+  location: "Doha-Qatar"
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url:
   - title: facebook
     url:
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: 
   - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: 
   - title: github
-    url: http://github.com/jekyll
+    url: 
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 
+  - line: 
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'This website theme was forked using open source Bootstrap theme created by jeromelachaud  <a href="https://github.com/jeromelachaud/freelancer-theme">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
