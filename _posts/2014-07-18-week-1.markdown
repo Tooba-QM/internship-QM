@@ -12,3 +12,5 @@ d3: I ended this week by learning more about how I can use the python library to
 c: In conclusion, my first week of internship has been incredibly fulfilling. As a university student, transitioning into a professional work environment was a new experience that required some adaptation. However, I was fortunate to have a supportive supervisor and welcoming colleagues, which facilitated a smooth and quick adjustment process. Furthermore, surveying and observing people in the museum not only provided me with valuable data for my research but also offered personal growth experience. As an introvert, the lockdown during the pandemic made it challenging for me to interact with people. However, conducting surveys and observations in the museum pushed me out of my comfort zone and allowed me to engage with visitors.
 
 ---
+
+## THIS IS A HEADING
