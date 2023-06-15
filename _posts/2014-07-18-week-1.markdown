@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 date: 2023-06-14
 img: 1.jpg
-alt: image-alt                                                                                    
+alt: image-alt
 ---
 
 ### My first week at the NMOQ for the internship was very welcoming and enjoyable. Each day I had something new to explore and this is summarised below:
