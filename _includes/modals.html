@@ -19,7 +19,7 @@
             {% if post.description %}
               <h4>{{ post.description }}</h4>
                {% endif %}
-                <ul class="">
+                <ul class="" style="font-size: 20px;">
 
               {% if post.d %}
               <li><b>DAY 1 and 2: </b>
@@ -39,8 +39,11 @@
               </li>
               {% endif %}
               <br>
-              <b>This is a screenshot of my work from DAY 4</b>
-              
+              {% if post.s %}
+              <li><b>This is a screenshot of my work</b>
+                <img src="img/portfolio/{{ post.s }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+              </li>
+              {% endif %}
               <br>
               {% if post.d3 %}
               <li><b>DAY 5: </b> 
