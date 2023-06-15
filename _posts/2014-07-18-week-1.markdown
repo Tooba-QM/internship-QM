@@ -7,4 +7,4 @@ alt: image-alt
 description: This **report is about the experience and the results of the observations and surveys** taken on how people interact with multimedia in National Museum of Qatar (NMOQ). The observations were recorded in a structured manner, noting down specific actions, reactions, and notable behaviors of the visitors. While the surveys were conducted at the end of visitors' museum tour in G12. 
 
 ---
-**report is about the experience and the results of the observations and surveys**
+****report is about the experience and the results of the observations and surveys****
