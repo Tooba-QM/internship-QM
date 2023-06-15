@@ -5,11 +5,4 @@ date: 2023-06-14
 img: 1.jpg
 alt: image-alt
 description: This **report is about the experience and the results of the observations and surveys** taken on how people interact with multimedia in National Museum of Qatar (NMOQ). The observations were recorded in a structured manner, noting down specific actions, reactions, and notable behaviors of the visitors. While the surveys were conducted at the end of visitors' museum tour in G12. My first week at the internship included several activities
-Quick visit of the National Museum of Qatar
-Permanent exhibition galleries, Old Palace, quick tour of NMoQ’s Temporary Exhibitions (Pipilotti Rist and Olafur Eliasson)
-Joining the Lusail Museum team weekly meeting
-Getting started with visitors observations and surveys, to try to understand our visitors/users
-How many observations and surveys you did
-
-
 ---
