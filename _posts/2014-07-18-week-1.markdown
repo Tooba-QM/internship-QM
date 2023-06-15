@@ -1,10 +1,21 @@
 ---
 layout: default
 modal-id: 1
-date: 2023-06-14
+date: 2020-01-18
 img: 1.jpg
 alt: image-alt
----
-### My first week at the NMOQ for the internship was very welcoming and enjoyable. Each day I had something new to explore and this is summarised below:
+project-date: January 2020
+client: The Client
+category: Web Development
+description: The description of the project
 
-DAY 1 AND 2: Mr. Christophe gave me a quick visit of the National Museum of Qatar which included the  Permanent exhibition galleries, Old Palace and  quick tour of NMoQ’s Temporary Exhibitions (Pipilotti Rist and Olafur Eliasson). After that I joined the Lusail Museum team weekly meeting where I got introduced to the whole team. Lastly, I got started with the visitors’ observations to try to understand our visitors/users. The observations were recorded in a structured manner, noting down specific actions, reactions, and notable behaviors of the visitors. By the end of these two days, I had filled almost 20 observation sheets. 
+---
+
+### Additional Details
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed facilisis mauris in nisi vulputate, at tristique justo finibus. Vestibulum sagittis ultricies orci nec posuere. Nam rhoncus facilisis augue, in iaculis turpis lobortis non. Curabitur ultrices, justo eget consequat cursus, velit lorem vestibulum nisl, vel fringilla ipsum mi id arcu.
+
+Vivamus at felis varius, pharetra lacus eu, tempus velit. Mauris consequat, ligula at eleifend tincidunt, purus orci dapibus urna, in fermentum dolor mi a ante. Phasellus bibendum, mi vel euismod rhoncus, lectus metus sodales diam, a vulputate tellus nunc ut ante. Sed aliquam vulputate est, vel vulputate tellus vulputate nec. Nullam ut cursus orci. Duis sed vestibulum nisi, in tincidunt orci. In eu vulputate ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+
+Donec aliquam ante eu nulla congue, non tempus ipsum congue. Sed condimentum malesuada leo in tempor. Mauris nec arcu id sapien volutpat ultricies. Suspendisse potenti. Suspendisse at enim et mauris placerat pretium. Fusce luctus ante at est feugiat, eget rutrum lorem condimentum. Vestibulum id arcu nec lacus pharetra ultrices.
+
