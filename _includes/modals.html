@@ -20,21 +20,39 @@
               <h3>{{ post.description }}</h3>
                {% endif %}
             <ul class="">
+
               {% if post.d %}
-              <li>Day 1 and 2:
+              <li><b>Day 1 and 2: </b>
                 {{ post.d }}
               </li>
               {% endif %}
+
               {% if post.d1 %}
-              <li>Day 3:
+              <li><b>Day 3: </b>
                 {{ post.d1 }}
               </li>
               {% endif %}
+
               {% if post.d2 %}
-              <li>Day 4: 
+              <li><b>Day 4: </b>
                 {{ post.d2 }}
               </li>
               {% endif %}
+
+
+              {% if post.d3 %}
+              <li><b>Day 5: </b> 
+                {{ post.d3 }}
+              </li>
+              {% endif %}
+
+              {% if post.conclusion %}
+              <li> 
+                {{ post.conclusion }}
+              </li>
+              {% endif %}
+
+
             </ul>
             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
               Close</button>
