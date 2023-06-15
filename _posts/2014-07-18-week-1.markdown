@@ -5,4 +5,5 @@ date: 2023-06-14
 img: 1.jpg
 alt: image-alt
 description: This **report is about the experience and the results of the observations and surveys** taken on how people interact with multimedia in National Museum of Qatar (NMOQ). The observations were recorded in a structured manner, noting down specific actions, reactions, and notable behaviors of the visitors. While the surveys were conducted at the end of visitors' museum tour in G12. My first week at the internship included several activities
+description: In conclusion, surveying and observing people in the museum not only provided me with valuable data for my research but also offered personal growth experience. As an introvert, the lockdown during the pandemic made it challenging for me to interact with people. However, conducting surveys and observations in the museum pushed me out of my comfort zone and allowed me to engage with visitors.
 ---
