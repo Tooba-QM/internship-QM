@@ -10,12 +10,3 @@ category: Web Development
 description: The description of the project
 
 ---
-
-## Additional Details
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed facilisis mauris in nisi vulputate, at tristique justo finibus. Vestibulum sagittis ultricies orci nec posuere. Nam rhoncus facilisis augue, in iaculis turpis lobortis non. Curabitur ultrices, justo eget consequat cursus, velit lorem vestibulum nisl, vel fringilla ipsum mi id arcu.
-
-Vivamus at felis varius, pharetra lacus eu, tempus velit. Mauris consequat, ligula at eleifend tincidunt, purus orci dapibus urna, in fermentum dolor mi a ante. Phasellus bibendum, mi vel euismod rhoncus, lectus metus sodales diam, a vulputate tellus nunc ut ante. Sed aliquam vulputate est, vel vulputate tellus vulputate nec. Nullam ut cursus orci. Duis sed vestibulum nisi, in tincidunt orci. In eu vulputate ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-
-Donec aliquam ante eu nulla congue, non tempus ipsum congue. Sed condimentum malesuada leo in tempor. Mauris nec arcu id sapien volutpat ultricies. Suspendisse potenti. Suspendisse at enim et mauris placerat pretium. Fusce luctus ante at est feugiat, eget rutrum lorem condimentum. Vestibulum id arcu nec lacus pharetra ultrices.
-
