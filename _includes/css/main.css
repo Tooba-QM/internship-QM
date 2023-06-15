@@ -12,8 +12,8 @@ p {
     font-size: 20.5px;
 }
 
-li {
-    font-size: 20.5px;
+.list {
+    font-size: 20px;
 }
 
 p.small {
