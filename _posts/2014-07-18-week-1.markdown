@@ -11,7 +11,7 @@ description: The description of the project
 
 ---
 
-### Additional Details
+## Additional Details
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed facilisis mauris in nisi vulputate, at tristique justo finibus. Vestibulum sagittis ultricies orci nec posuere. Nam rhoncus facilisis augue, in iaculis turpis lobortis non. Curabitur ultrices, justo eget consequat cursus, velit lorem vestibulum nisl, vel fringilla ipsum mi id arcu.
 
