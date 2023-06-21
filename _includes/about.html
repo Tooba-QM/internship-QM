@@ -9,12 +9,56 @@
     </div>
     <div class="row">
       <div class="col-lg-4 col-lg-offset-2">
-        <p>Welcome to my weekly internship reports! This website serves as a platform to document and share my journey throughout my internship experience. As an intern at Qatar Museums, I will be regularly posting updates, insights, and reflections on the projects, tasks, and skills I am involved with.
-          In these reports, I aim to provide an overview of my progress, challenges, and achievements as an intern. They offer valuable insights into my day-to-day activities and responsibilities. </p>
+        <h4>Welcome to my weekly internship reports!</h4>
+        <p>This website serves as a platform to document and share my journey throughout my internship experience. As an intern at Qatar Museums, I will be regularly posting updates, insights, and reflections on the projects, tasks, and skills I am involved with.
+          In these reports, I aim to provide an overview of my progress, challenges, and achievements as an intern. Thank you for joining me on this exciting journey, and I look forward to sharing my internship experiences with you!</p>
       </div>
-      <div class="col-lg-4">
-        <p>Additionally, I will share valuable lessons learned, best practices, and notable experiences encountered during my internship. Thank you for joining me on this exciting journey, and I look forward to sharing my internship experiences with you!</p> 
+     <!--
+<div class="col-lg-4">
+        <p> Thank you for joining me on this exciting journey, and I look forward to sharing my internship experiences with you!</p> 
         <img class="img-responsive" src="img/portfolio/L1.jpg" alt="pic" />
     </div>
+
+     --> 
+     <div class="col-lg-4">
+      <h4>Here are some clicks from my workplace: </h4> 
+      <div class="swiper">
+        <!-- Additional required wrapper -->
+        <div class="swiper-wrapper">
+          <!-- Slides -->
+          <div class="swiper-slide">NMoQ<img class="img-responsive" src="img/portfolio/1.jpg" alt="pic" /></div>
+          <div class="swiper-slide">NMoQ<img class="img-responsive" src="img/portfolio/2.jpg" alt="pic" /></div>
+          <div class="swiper-slide">NMoQ<img class="img-responsive" src="img/portfolio/3.jpg" alt="pic" /></div>
+  
+        </div>
+   
+        <div class="swiper-pagination"></div>
+    
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+      </div>
+  </div>
+    
      </div>
+     <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+
+     <script>
+      const swiper = new Swiper('.swiper', {
+        autoplay: {
+          delay: 3000,
+          disableOnInteraction: false,
+        },
+        loop: true,
+        pagination: {
+          el: '.swiper-pagination',
+          clickable: true,
+        },
+        navigation: {
+          nextEl: '.swiper-button-next',
+          prevEl: '.swiper-button-prev',
+        },
+      });
+    </script>
+      
+
 </section>
