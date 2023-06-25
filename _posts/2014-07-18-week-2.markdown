@@ -4,8 +4,7 @@ modal-id: 2
 date: 2014-07-18
 img: S6.png
 alt: image-alt
-description: upcoming 
-d: This week I had forked the ACMI audio guide.
+d0: During the second week, we welcomed a new intern to our team, and I participated in the weekly Lusail team meeting. My primary objective for the week was to duplicate the source code of the Australian Center for Moving Image in order to develop my own audio guide for a fictional exhibition. I took the time to familiarize myself with audio guides and conducted research on existing projects and code repositories related to this field.
+d00: 
 ---
 
-## Not sure why this is not working

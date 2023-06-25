@@ -15,12 +15,27 @@
           <div class="modal-body">
             <h2>{{ post.title }}</h2>
             <hr class="star-primary">
+            
             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+            <p style="text-align: center; margin-bottom: 50px; font-size: 15px;"> Photos: © Lusail Museum, Qatar Museums, 2022.</p>
             {% if post.description %}
               <h4>{{ post.description }}</h4>
                {% endif %}
                 <ul class="" style="font-size: 20px;">
 
+
+                  {% if post.d0 %}
+                  <li><b>DAY 1: </b>
+                    {{ post.d0 }}
+                  </li>
+                  {% endif %}
+                  <br>
+                  {% if post.d00 %}
+                  <li><b>DAY 2: </b>
+                    {{ post.d00 }}
+                  </li>
+                  {% endif %}
+                  <br>
               {% if post.d %}
               <li><b>DAY 1 and 2: </b>
                 {{ post.d }}
