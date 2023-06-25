@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2014-07-18
-img: S6.png
+img: S12.png
 alt: image-alt
 d0: During the second week, we welcomed a new intern to our team, and I participated in the weekly Lusail team meeting. My primary objective for the week was to duplicate the source code of the Australian Center for Moving Image in order to develop my own audio guide for a fictional exhibition. I took the time to familiarize myself with audio guides and conducted research on existing projects and code repositories related to this field.
 d00: I enhanced the audio guide by implementing audio stops, which involved incorporating various forms of media such as images and captions in both English and Arabic. To streamline the process, I utilized the SharePoint repository specifically for exhibition materials. However, this task proved to be time-consuming as it required extracting audio from videos and separating them into English and Arabic versions. Nonetheless, I enjoyed working on this objective. Furthermore, to ensure consistency and adhere to the Lusail Museum's brand guidelines, I incorporated their official logo and utilized their specified hex colors throughout the design.
