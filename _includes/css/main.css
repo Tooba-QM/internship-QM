@@ -9,6 +9,14 @@ body {
     overflow-x: hidden;
 }
 
+.iframe-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Set the container height to full viewport height */
+  }
+  
+
 p {
     font-size: 20.5px;
 }
