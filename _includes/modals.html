@@ -77,8 +77,27 @@
                 {{ post.c }}
               </li>
               {% endif %}
-
-
+<br>
+              {% if post.m1 %}
+              <li>
+                <img src="img/portfolio/{{ post.m1 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+              </li>
+              {% endif %}
+              {% if post.m2 %}
+              <li>
+                <img src="img/portfolio/{{ post.m2 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+              </li>
+              {% endif %}
+              {% if post.m3 %}
+              <li>
+                <img src="img/portfolio/{{ post.m3 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+              </li>
+              {% endif %}
+              {% if post.m4 %}
+              <li>
+                <img src="img/portfolio/{{ post.m4 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+              </li>
+              {% endif %}
             </ul>
             <br><br>
             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
