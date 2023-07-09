@@ -23,7 +23,6 @@
                {% endif %}
                 <ul class="" style="font-size: 20px;">
 
-
                   {% if post.d0 %}
                   <li><b>DAY 1: </b>
                     {{ post.d0 }}
@@ -35,7 +34,7 @@
                     {{ post.d00 }}
                   </li>
                   {% endif %}
-                  <br>
+                  
               {% if post.d %}
               <li><b>DAY 1 and 2: </b>
                 {{ post.d }}
@@ -59,7 +58,7 @@
                 <img src="img/portfolio/{{ post.s }}" class="img-responsive img-centered" alt="{{ post.alt }}">
               </li>
               {% endif %}
-              <br>
+              
               {% if post.d3 %}
               <li><b>DAY 5: </b> 
                 {{ post.d3 }}
@@ -71,10 +70,7 @@
                 <img src="img/portfolio/{{ post.s1 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
               </li>
               {% endif %}
-              <br>
-
-
-
+              
               <br>
               {% if post.c %}
               <li>
@@ -84,6 +80,7 @@
 
 
             </ul>
+            <br><br>
             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
               Close</button>
           </div>
