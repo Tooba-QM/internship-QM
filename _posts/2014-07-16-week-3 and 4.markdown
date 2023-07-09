@@ -4,8 +4,9 @@ modal-id: 3
 date: 2014-07-16
 img: S7.png
 alt: image-alt
-description: upcoming
-m1: W1.png
+description: 
+w: This week, I had the opportunity to explore the Getty's Quire platform and utilize its features to publish my own publication in various formats. My goal was to delve into the capabilities of the platform and understand what it has to offer. Although the Getty's Quire platform presented some complexities, I persisted in my efforts to create a PDF version, convert my publication into a downloadable e-book, and publish my content online. Despite encountering challenges along the way, such as navigating through the platform's intricate features and tools, I remained determined to achieve my publishing goals. Moreover, I discovered that Getty's Quire platform has been trusted by real-life museums for their exhibition catalogues, further highlighting its credibility and potential. The fact that renowned museums have chosen this platform for their catalogues is a testament to its reliability and effectiveness in the field of museum publications. Here is an example https://www.getty.edu/publications/cultural-heritage-mass-atrocities/ . Moving forward, I am want to dedicate more time and effort to further explore the Getty's Quire platform in the upcoming weeks.
+s: W1.png
 m2: W2.png
 m3: W3.png
 m4: W4.png
