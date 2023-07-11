@@ -91,16 +91,32 @@
                 <img src="img/portfolio/{{ post.m2 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
               </li>
               {% endif %}
+
               {% if post.m3 %}
               <li>
                 <img src="img/portfolio/{{ post.m3 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
               </li>
               {% endif %}
+
               {% if post.m4 %}
               <li>
                 <img src="img/portfolio/{{ post.m4 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
               </li>
               {% endif %}
+
+
+              {% if post.video %}
+              <li>
+                <h5>Here is a short clip from my tour at QOSM:</h5>
+                <video width="640" height="700" autoplay controls>
+                  
+                  <source src="img/{{ post.video }}" type="video/mp4 ">
+                </video>
+                      </li>
+              {% endif %}
+
+
+
             </ul>
             <br><br>
             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
