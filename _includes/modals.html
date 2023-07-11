@@ -22,65 +22,87 @@
               <h4>{{ post.description }}</h4>
                {% endif %}
                 <ul class="" style="font-size: 20px;">
+
+
+
                   {% if post.w %}
                   <li> {{ post.w }}
                   </li>
                   {% endif %}
+
+                  <!--FOR DAY 1-->
                   {% if post.d0 %}
                   <li><b>DAY 1: </b>
                     {{ post.d0 }}
                   </li>
                   {% endif %}
                   <br>
+
+                  <!--FOR DAY 2-->
                   {% if post.d00 %}
                   <li><b>DAY 2: </b>
                     {{ post.d00 }}
                   </li>
                   {% endif %}
                   
+              <!--FOR DAY 1 & 2-->
               {% if post.d %}
               <li><b>DAY 1 and 2: </b>
                 {{ post.d }}
               </li>
               {% endif %}
               <br>
+
+              <!--FOR DAY 3-->
               {% if post.d1 %}
               <li><b>DAY 3: </b>
                 {{ post.d1 }}
               </li>
               {% endif %}
               <br>
+
+                <!--FOR DAY 4-->
               {% if post.d2 %}
               <li><b>DAY 4: </b>
                 {{ post.d2 }}
               </li>
               {% endif %}
               <br>
+
+              <!--FOR ANY KIND OF SCREENSHOTS-->
               {% if post.s %}
               <li><b>This is a screenshot of my work</b>
                 <img src="img/portfolio/{{ post.s }}" class="img-responsive img-centered" alt="{{ post.alt }}">
               </li>
               {% endif %}
               
+
+              <!--FOR DAY 5-->
               {% if post.d3 %}
               <li><b>DAY 5: </b> 
                 {{ post.d3 }}
               </li>
               {% endif %}
               <br>
+
+              <!--NOT REQUIRED-->
               {% if post.s1 %}
               <li><b>Please scan the QR codes below:</b>
                 <img src="img/portfolio/{{ post.s1 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
               </li>
               {% endif %}
-              
-              <br>
+                <br>
+
+
+              <!--CONCLUSION-->  
               {% if post.c %}
               <li>
                 {{ post.c }}
               </li>
               {% endif %}
 <br>
+
+      <!--ALL IMGS-->  
               {% if post.m1 %}
               <li>
                 <img src="img/portfolio/{{ post.m1 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
@@ -118,7 +140,7 @@
               </li>
               {% endif %}
 
-
+            <!--VIDEO-->  
               {% if post.video %}
               <li>
                 <h5>Here is a short clip from my tour at QOSM:</h5>
