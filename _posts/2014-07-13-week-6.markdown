@@ -1,8 +1,0 @@
----
-layout: default
-modal-id: 6
-date: 2014-07-16
-img: S9.png
-alt: image-alt
-description: upcoming
----
