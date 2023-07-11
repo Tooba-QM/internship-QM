@@ -4,6 +4,6 @@ modal-id: 4
 date: 2014-07-16
 img: S10.png
 alt: image-alt
-description: upcoming
+description: loading...
 video: 2.mp4
 ---
