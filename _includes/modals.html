@@ -38,6 +38,16 @@
                   {% endif %}
                   <br>
 
+            <!--VIDEO-->  
+            {% if post.video %}
+            <li>
+              <h5>Here is a short clip from my tour at QOSM:</h5>
+              <video width="640" height="700" controls>
+                
+                <source src="img/{{ post.video }}" type="video/mp4 ">
+              </video>
+                    </li>
+            {% endif %}
                   <!--FOR DAY 2-->
                   {% if post.d00 %}
                   <li><b>DAY 2: </b>
@@ -146,16 +156,6 @@
               </li>
               {% endif %}
 
-            <!--VIDEO-->  
-              {% if post.video %}
-              <li>
-                <h5>Here is a short clip from my tour at QOSM:</h5>
-                <video width="640" height="700" controls>
-                  
-                  <source src="img/{{ post.video }}" type="video/mp4 ">
-                </video>
-                      </li>
-              {% endif %}
 
 
 
