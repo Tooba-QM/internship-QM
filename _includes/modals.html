@@ -96,6 +96,28 @@
               </li>
               {% endif %}
               
+            <!--FOR ANY KIND OF SCREENSHOT CAPTION-->
+            {% if post.caption %}
+            <li>
+              <i>{{ post.caption  }}</i>
+            </li>
+            {% endif %}
+
+<br>
+              <!--FOR DAY 4-->
+              {% if post.d44 %}
+              <li><b>DAY 4: </b>
+                {{ post.d44 }}
+              </li>
+              {% endif %}
+              <br>
+
+              {% if post.i1 %}
+              <li><b>Screenshot from of my work from today</b>
+                <img src="img/portfolio/{{ post.i1 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+              </li>
+              {% endif %}
+                <br>
 
               <!--FOR DAY 5-->
               {% if post.d3 %}
