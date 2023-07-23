@@ -38,9 +38,18 @@
                   {% endif %}
           
                   {% if post.day1-s %}
-                  <b>This is a screenshot of my work</b>
+                  <br>
+                  <li>
+                  <b>This is how the Airtable looks:</b>
                     <img src="img/portfolio/{{ post.day1-s }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                  
+                  </li>
+                  {% endif %}
+
+                  {% if post.day1-s1 %}
+                  <li>
+                  <b>The outcome of testing API in Postman:</b>
+                    <img src="img/portfolio/{{ post.day1-s1 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                  </li>
                   {% endif %}
             <!--VIDEO-->  
             {% if post.video %}
