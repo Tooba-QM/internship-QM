@@ -36,8 +36,12 @@
                     {{ post.d0 }}
                   </li>
                   {% endif %}
-                  <br>
-
+          
+                  {% if post.day1-s %}
+                  <b>This is a screenshot of my work</b>
+                    <img src="img/portfolio/{{ post.day1-s }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                  
+                  {% endif %}
             <!--VIDEO-->  
             {% if post.video %}
             <li>
@@ -55,6 +59,7 @@
                     {{ post.d00 }}
                   </li>
                   {% endif %}
+
                   
               <!--FOR DAY 1 & 2-->
               {% if post.d %}
@@ -71,6 +76,14 @@
               </li>
               {% endif %}
               <br>
+
+                   <!--FOR ANY KIND OF SCREENSHOTS-->
+                   {% if post.day3-s %}
+                   <li><b>This is a screenshot of my work</b>
+                     <img src="img/portfolio/{{ post.day3-s }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                   </li>
+                   {% endif %}
+
     <!--VIDEO-->  
     {% if post.v2 %}
     <li>
@@ -95,6 +108,8 @@
                 <img src="img/portfolio/{{ post.s }}" class="img-responsive img-centered" alt="{{ post.alt }}">
               </li>
               {% endif %}
+
+       
               
             <!--FOR ANY KIND OF SCREENSHOT CAPTION-->
             {% if post.caption %}
