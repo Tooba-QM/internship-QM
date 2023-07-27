@@ -249,6 +249,24 @@
 
 
 
+    <!--VIDEO-->  
+    {% if post.v3 %}
+    <br>
+    <li>
+      <h5> Here is a clip of the Exhibition "Olafur Eliasson: The Curious Desert" at NMOQ. </h5>
+      <video width="640" height="700" controls>
+        
+        <source src="img/{{ post.v3 }}" type="video/mp4 ">
+      </video>
+            </li>
+    {% endif %}
+
+
+              {% if post.bye %}
+              <br><br>
+              <h2>  {{ post.bye }}</h2>
+                  <br><br>          
+              {% endif %}
 
             </ul>
             <br><br>
