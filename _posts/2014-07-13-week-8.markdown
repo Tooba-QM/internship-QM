@@ -4,5 +4,15 @@ modal-id: 6
 date: 2014-07-16
 img: S9.png
 alt: image-alt
-description: upcoming
+description: 
+d0: During the final week, my task involved working on a prototype project. To accomplish this, I dedicated time to watching, reading, and exploring various research projects and code repositories, such as those related to raspberry pi, Arduino, sensors, RFID, and QR codes.
+d00: Today, I participated in the Lusail weekly team meeting where I delivered a presentation on cybersecurity. It was a pleasant experience witnessing Amamah's insightful thoughts on AI, and I thoroughly enjoyed the engaging discussion session we had afterwards.  I also generated ideas for enhancing the museum experience for visitors. Some of the ideas included incorporating an audio guide with RFID interaction using a Raspberry Pi. Additionally, I explored the concept of using QR codes alongside paintings, enabling visitors to scan them and access information about the respective artists who painted them.
+f: f6.jpg
+f1: f7.jpg
+d1: I engaged in a series of exercises focused on Prototyping for Digital Experiences. It was a stimulating experience that allowed me to dive into the world of creativity and abstract thinking. One particular exercise that caught my interest was envisioning a conversation with a familiar app, which sparked innovative ideas and provided me with fresh insights into design and user interfaces. Moreover, I also participated in a brainstorming session with Mr.Christophe and it was unlike anything I had done before. The objective was to prototype a digital museum experience tailored for tourists aged 25-34 from the Philippines. The primary goal was to create an enjoyable and practical experience that aligns perfectly with their specific interests and needs. Both experiences pushed me to think creatively and strategically about user experiences in the digital realm.
+d2: On my last day, I had the opportunity to work on two small projects using an Arduino Kit. The first project involved setting up a RFID module with the Arduino to create a secure pass gate. The second project was to display data on an LCD using Arduino. It was an incredibly enjoyable experience for me, as I had always observed my computer engineering friends working with Arduino, but this was my first time trying it myself. I was thrilled to see how quickly we could work on these projects and witness tangible results. It gave me a sense of accomplishment and motivated me to explore more with the Arduino Kit. I'm looking forward to using it throughout the rest of my summer vacation to build exciting and fun projects. To top it all off, Mr. Christophe treated us to a farewell lunch, which provided a great opportunity to chitchat and discuss our internship experiences. It was a nice way to wrap up the internship and reflect on the valuable learning and growth we gained during our time here.
+f2: f3.jpg
+f3: f4.jpg
+f4: f2.jpg
+c:
 ---

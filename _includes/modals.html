@@ -69,6 +69,22 @@
                   </li>
                   {% endif %}
 
+
+                  {% if post.f %}
+                  <br>
+                  <li>
+                  <b>Idea 1</b>
+                    <img src="img/portfolio/{{ post.f}}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                  </li>
+                  {% endif %}
+
+                  
+                  {% if post.f1 %}
+                  <li>
+                  <b>Idea 2</b>
+                    <img src="img/portfolio/{{ post.f1}}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                  </li>
+                  {% endif %}
                   
               <!--FOR DAY 1 & 2-->
               {% if post.d %}
@@ -118,6 +134,25 @@
               </li>
               {% endif %}
 
+
+                 <!--FOR ANY KIND OF SCREENSHOTS-->
+                 {% if post.f2 %}
+                 <li><b>The connection to display data on an LCD using Arduino</b>
+                   <img src="img/portfolio/{{ post.f2 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                 </li>
+                 {% endif %}
+   
+                 {% if post.f3 %}
+                 <li><b>The RFID module with the Arduino to create a secure pass gate</b>
+                   <img src="img/portfolio/{{ post.f3 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                 </li>
+                 {% endif %}
+   
+                 {% if post.f4 %}
+                 <li><b>This is a screenshot RFID working properly</b>
+                   <img src="img/portfolio/{{ post.f4 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                 </li>
+                 {% endif %}
        
               
             <!--FOR ANY KIND OF SCREENSHOT CAPTION-->
